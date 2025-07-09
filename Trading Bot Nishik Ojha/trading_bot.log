@@ -1,0 +1,3 @@
+2025-07-09 04:41:00.464175 INFO: Market Order Placed: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001, 'price': '', 'orderId': 12345678, 'status': 'FILLED', 'timestamp': '2025-07-09 04:41:00.464175'}
+2025-07-09 10:45:05,565 INFO: Initialized Binance Futures Client in Testnet mode
+2025-07-09 10:45:22,915 ERROR: Binance API Exception (Limit Order): APIError(code=-2014): API-key format invalid.

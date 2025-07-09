@@ -1,0 +1,2 @@
+symbol,side,type,quantity,price,orderId,status,timestamp
+BTCUSDT,BUY,MARKET,0.001,,12345678,FILLED,2025-07-09 04:41:00.464175
